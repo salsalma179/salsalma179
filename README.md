@@ -19,7 +19,7 @@
       display: block;
       margin: center;
       max-width: 100px;
-      height: auto;
+      height: 100px;
       border-radius: 50%;
     }
 
