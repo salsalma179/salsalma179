@@ -18,9 +18,9 @@
     img {
       display: block;
       margin: center;
-      max-width: 50px;
+      max-width: 100px;
       height: auto;
-      border-radius: 30%;
+      border-radius: 50%;
     }
 
     .info {
