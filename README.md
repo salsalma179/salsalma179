@@ -1,5 +1,52 @@
-PROFIL SALMA
+<html>
+  <head>
+    <title>Profil Salma</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <style>
+    .container {
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+      font-family: Arial, sans-serif;
+    }
 
+    h1 {
+      text-align: center;
+      margin-top: 0;
+    }
+
+    img {
+      display: block;
+      margin: auto;
+      max-width: 100px;
+      height: auto;
+      border-radius: 50%;
+    }
+
+    .info {
+      margin-top: 20px;
+    }
+
+    h2 {
+      font-size: 20px;
+      margin-top: 30px;
+    }
+
+    p {
+      margin: 10px 0;
+    }
+
+    ul,
+    ol {
+      margin: 0;
+      padding: 0 0 0 20px;
+    }
+
+    li {
+      margin: 5px 0;
+    }
+  </style>
   <body>
     <div class="container">
       <h1>Tentang Salma</h1>
