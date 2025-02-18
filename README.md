@@ -1,5 +1,5 @@
 PROFIL SALMA
-  </style>
+
   <body>
     <div class="container">
       <h1>Tentang Salma</h1>
