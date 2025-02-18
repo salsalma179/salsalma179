@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Profil Salma</title>
-    <link rel="stylesheet" type="text/css" href="style.css" />
-  </head>
-  <style>
-    .container {
-      max-width: 800px;
-      margin: auto;
-      padding: 20px;
-      font-family: Arial, sans-serif;
+PROFIL SALMA
     }
 
     h1 {
