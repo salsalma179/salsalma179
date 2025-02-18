@@ -18,8 +18,8 @@
     img {
       display: block;
       margin: auto;
-      max-width: 100px;
-      height: 100px;
+      max-width: 200px;
+      height: 200px;
       border-radius: 50%;
     }
 
