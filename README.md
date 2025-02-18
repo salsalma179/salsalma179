@@ -1,4 +1,3 @@
-<html>
   <head>
     <title>Profil Salma</title>
     <link rel="stylesheet" type="text/css" href="style.css" />
@@ -98,4 +97,4 @@
       </div>
     </div>
   </body>
-</html>
+
