@@ -63,7 +63,7 @@
             <a href="https://ugm.ac.id/id"> Universitas Gadjah Mada</a>
           </li>
           <li> [2020-2022]
-            <a href= "https://sman1ptk.sch.id/"> SMA Negeri 1 Pontianak (2020-2022)</a>
+            <a href= "https://sman1ptk.sch.id/"> SMA Negeri 1 Pontianak</a>
           </li>
         </ul>
         <h2>Cuplikan Pengalaman Duniawi</h2>
