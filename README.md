@@ -92,7 +92,7 @@
             <a href="mailto:salmakhoirunnisa@mail.ugm.ac.id">salmakhoirunnisa@mail.ugm.ac.id</a>
         </p>
         <p> Instagram: 
-            <a href="instagram.com/salmakhrnns__">@salmakhrnns__</a>
+            <a href="https://www.instagram.com/salmakhrnns__/">@salmakhrnns__</a>
         </p>
       </div>
     </div>
