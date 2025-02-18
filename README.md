@@ -72,10 +72,10 @@
           <li>[Januari-Februari 2025] Praktik Kerja Lapangan Komprehensif di 
             <a href="https://rsu.queenlatifa.co.id/yogyakarta/">RSU Queen Latifa Yogyakarta</a>
           </li>
-          <li>[Januari-Februari 2024] Praktik Kerja Lapangan II di 
+          <li>[Januari-Februari 2024] Praktik Kerja Lapangan III di 
             <a href="https://www.instagram.com/puskesmas.gondomanan/">Puskesmas Gondomanan</a> 
           </li>
-          <li>[Juni-Agustus 2023] Praktik Kerja Lapangan I di 
+          <li>[Juni-Agustus 2023] Praktik Kerja Lapangan I-II di 
             <a href="https://pkubantul.com/">Rumah Sakit PKU Muhammadiyah Bantul</a>
           </li>
         </ul>
