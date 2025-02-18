@@ -1,5 +1,4 @@
 PROFIL SALMA
-    }
 
     h1 {
       text-align: center;
