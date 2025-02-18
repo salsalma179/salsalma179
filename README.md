@@ -17,10 +17,10 @@
 
     img {
       display: block;
-      margin: auto;
-      max-width: 100px;
+      margin: center;
+      max-width: 50px;
       height: auto;
-      border-radius: 50%;
+      border-radius: 30%;
     }
 
     .info {
